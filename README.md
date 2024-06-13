@@ -1,0 +1,2 @@
+# Crowd-Density-Estimation
+Algorithm in OpenCv Python that reads a video and gives us the count of people in crowded places in the form of graphs (people vs time) on processing the frames of videos obtained from the CCTV footage of that particular area. The  Algorithm is inspired by Jacob’s method of crowd estimation- dividing the area occupied by a crowd into sections, determining an average number of people in each section, and multiplying by the number of sections occupied
